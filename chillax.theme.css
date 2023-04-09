@@ -59,9 +59,9 @@
 
 /*roots*/ /*both dark and light*/
 :root {
-  --user-name: "King";
+  --user-name: "suvini";
   --font-name: Poppins;
-  --font-size: 13px;
+  --font-size: 18px;
      
   
 /*glow radial status*/ /*must end in px*/
@@ -83,9 +83,9 @@
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolor:	  251, 84, 84;	
+  --accentcolor:	  215, 188, 255;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #fb5454;
+  --accentcolorV2:     #CCA9FF;
      
      
 /*settings modal root*/
@@ -99,7 +99,7 @@
   --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
-  --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
+  --de-suggested-bg: url('https://i.pinimg.com/originals/d8/3e/94/d83e94c3b0e0aedbdd11de78dcaefbbc.jpg');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
